@@ -1,6 +1,6 @@
 /**
  * wait时间后执行函数
- */
+ */ 1
 function jieliu(fn, wait){
   let timer = null
   return function(...arg){
